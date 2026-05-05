@@ -1,7 +1,8 @@
 ## Hi, I'm MJ 👋
 
-**Accounts Receivable Specialist building end-to-end ML workflows on real-world data.**  
-Focused on business outcomes—not just model accuracy.
+**Accounts Receivable Specialist building ML workflows on real-world data.**
+
+Focused on business outcomes-not just model accuracy.
 
 ---
 
