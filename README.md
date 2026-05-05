@@ -23,22 +23,24 @@ I turn data into decisions using **SQL + machine learning**.
 
 ## Projects
 
-- **Customer Churn Prediction**
+## Projects
+
+- **[Customer Churn Prediction](https://github.com/mJasper2068/customer-churn-logistic-regression)**
   - Logistic Regression
   - Threshold tuning based on cost
   - Business-driven evaluation
 
-- **Chicago Salary Prediction**
+- **[Chicago Salary Prediction](https://github.com/mJasper2068/sql-salary-prediction)**
   - SQL feature engineering (PostgreSQL + SQLAlchemy)
   - Linear Regression
   - Coefficient interpretation for salary drivers
 
-- **Diabetes Prediction**
+- **[Diabetes Risk Prediction](https://github.com/mJasper2068/diabetes-logistic-regression)**
   - Logistic Regression
   - Threshold tuning to minimize false negatives
   - Life-critical cost framing (FN > FP)
 
-- **Diamond Price Prediction**
+- **[Diamond Price Modeling](https://github.com/mJasper2068/diamond-price-linear-regression)**
   - Linear Regression
   - Coefficient interpretation
   - Documented model limitations
