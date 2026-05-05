@@ -57,9 +57,3 @@ I turn data into decisions using **SQL + machine learning**.
 ## Goal
 
 Transition into a **data / ML role** focused on real-world decision systems, not just modeling.
-
----
-
-## GitHub
-
-https://github.com/mJasper2068
