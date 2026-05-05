@@ -1,6 +1,7 @@
-## Hi, I'm MJ 
+## Hi, I'm MJ 👋
 
-I turn data into decisions using **SQL + machine learning**.
+Accounts Receivable Specialist building end-to-end ML workflows on real-world data.**
+Focused on business outcomes, not just model accuracy.
 
 ---
 
