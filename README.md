@@ -23,8 +23,6 @@ I turn data into decisions using **SQL + machine learning**.
 
 ## Projects
 
-## Projects
-
 - **[Customer Churn Prediction](https://github.com/mJasper2068/customer-churn-logistic-regression)**
   - Logistic Regression
   - Threshold tuning based on cost
@@ -40,7 +38,7 @@ I turn data into decisions using **SQL + machine learning**.
   - Threshold tuning to minimize false negatives
   - Life-critical cost framing (FN > FP)
 
-- **[Diamond Price Modeling](https://github.com/mJasper2068/diamond-price-linear-regression)**
+- **[Diamond Price Modeling](https://github.com/mJasper2068/diamond-price-prediction-linear-regression)**
   - Linear Regression
   - Coefficient interpretation
   - Documented model limitations
